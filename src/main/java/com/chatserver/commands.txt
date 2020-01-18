@@ -1,0 +1,5 @@
+register <username>
+
+send <receiver> <message>
+
+disconnect <username>
